@@ -2,7 +2,7 @@
 #include <iostream>
 
 int main() {
-    const int baseGold = 1000;
+    const int baseGold = 1000; //const 이거 쓰는거 연습
     int minionGold = 0;
     std::cin >> minionGold;
 
